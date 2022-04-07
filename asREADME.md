@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Leonardo Naranjo
+- 👀 I’m interested in MEAN and MERN Stack and .NET and .NetCore technologies
+- 🌱 I’m currently learning Mobile Development Apps
+- 💞️ I’m looking to collaborate on an OOP projects
+- 📫 How to reach me? just send me email to leonardo_naranjo@itrsa.com.ar leoenarg@gmail.com
